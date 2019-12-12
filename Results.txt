@@ -1,0 +1,10 @@
+Simulation for virus: hjhjg
+Reproduction Number: 0.2, Mortality Number: 0.99
+Population Size: 16
+Initial Vaccinated: 5
+Initial Healthy: 10
+Initial Infected: 1
+
+Simulation Ended after 3 turns
+Total Dead: 3
+Total Vaccinated: 13
